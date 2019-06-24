@@ -29,7 +29,7 @@ The TUTORIAL.md file contains the name of the tag and some explanation of that s
 
 It's a little experiment I'm trying, we'll see how it goes!
 
-### Feeback ###
+### Feedback ###
 
 The Combine framework is new and the Foundation support I am using in this project appeared in Beta 2 a week before I made this example public.
 
